@@ -1,0 +1,36 @@
+.heading {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+}
+.paragraph {
+    text-align: center;
+    font-size: 24px;
+}
+.navitem {
+    color: whitesmoke;
+}
+.logo {
+    background-image: url("C:\home\elisha2698\TLC\New folder\download.jpeg");
+}
+.carousal {
+    height: 420px;
+}
+.firstspace {
+    height: 200px;
+}
+.welcome {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.footer-text {
+    color: beige;
+    font-weight: bold;
+}
+.contact-heading {
+    font-weight:bold;
+    color: white;
+}
